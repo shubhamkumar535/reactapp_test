@@ -1,0 +1,15 @@
+.wrapper{
+    margin: 10px;
+}
+.heading{
+    text-align: center;
+    font-size: 20px;
+}
+.product-class{
+}
+.sub-btn{
+    padding: 10px 20px;
+    margin: 15px 300px;
+    background-color: #fb315f;
+    font-size: 20px;
+}

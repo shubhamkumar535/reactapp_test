@@ -1,0 +1,42 @@
+[ 
+    {
+        "id":1,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbh9IosHdXZOMovaP0O3ORq2xpNAZHQI_wTw&usqp=CAU",
+        "imageName": "product 1",
+        "Amount": 200,
+        "count": 1,
+        "addToCart": false
+    },
+    {
+        "id":2,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbh9IosHdXZOMovaP0O3ORq2xpNAZHQI_wTw&usqp=CAU",
+        "imageName": "product 2",
+        "Amount": 300,
+        "count": 1,
+        "addToCart": false
+    },
+    {
+        "id":3,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbh9IosHdXZOMovaP0O3ORq2xpNAZHQI_wTw&usqp=CAU",
+        "imageName": "product 3",
+        "Amount": 400,
+        "count": 1,
+        "addToCart": false
+    },
+    {
+        "id":4,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbh9IosHdXZOMovaP0O3ORq2xpNAZHQI_wTw&usqp=CAU",
+        "imageName": "product 4",
+        "Amount": 500,
+        "count": 1,
+        "addToCart": false
+    },
+    {
+        "id":5,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbh9IosHdXZOMovaP0O3ORq2xpNAZHQI_wTw&usqp=CAU",
+        "imageName": "product 5",
+        "Amount": 900,
+        "count": 1,
+        "addToCart": false
+    }
+]
